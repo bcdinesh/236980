@@ -11,3 +11,4 @@ spec:
   - Variables.yaml
   - Template_test.yaml
   - Template_gitops-test.yaml
+  - Template_ui_template_test.yaml
