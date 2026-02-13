@@ -1,0 +1,10 @@
+# Exported from:        http://DAI-100SQ04:5516/
+# Release version:      25.3.1-1124.941
+# Date created:         Fri Feb 13 21:10:45 IST 2026
+
+---
+apiVersion: xl-release/v1
+kind: Import
+spec:
+  imports:
+  - Template_test-template.yaml
