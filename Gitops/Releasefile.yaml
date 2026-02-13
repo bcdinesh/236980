@@ -10,3 +10,4 @@ spec:
   - Template_test-template.yaml
   - Variables.yaml
   - Template_test.yaml
+  - Template_gitops-test.yaml
